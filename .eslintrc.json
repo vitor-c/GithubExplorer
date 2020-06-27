@@ -25,6 +25,7 @@
         "prettier"
     ],
     "rules": {
+        "react/jsx-one-expression-per-line": "off",
         "@typescript-eslint/camelcase": "off",
         "camelcase":"off",
         "prettier/prettier": "error",
